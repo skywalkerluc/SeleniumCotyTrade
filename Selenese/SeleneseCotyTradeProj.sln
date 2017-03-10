@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleView", "ModuleView\ModuleView.csproj", "{F788C9F7-8D75-4151-9E9D-299089B2F486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleneseOperation", "SeleneseOperation\SeleneseOperation.csproj", "{4C4EC555-A9B7-48A2-92AC-466EF2270A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F788C9F7-8D75-4151-9E9D-299089B2F486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F788C9F7-8D75-4151-9E9D-299089B2F486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F788C9F7-8D75-4151-9E9D-299089B2F486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F788C9F7-8D75-4151-9E9D-299089B2F486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4EC555-A9B7-48A2-92AC-466EF2270A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4EC555-A9B7-48A2-92AC-466EF2270A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4EC555-A9B7-48A2-92AC-466EF2270A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4EC555-A9B7-48A2-92AC-466EF2270A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://luqueskywalker.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ModuleView\\ModuleView.csproj
+		SccProjectName1 = ModuleView
+		SccLocalPath1 = ModuleView
+		SccProjectUniqueName2 = SeleneseOperation\\SeleneseOperation.csproj
+		SccProjectName2 = SeleneseOperation
+		SccLocalPath2 = SeleneseOperation
+	EndGlobalSection
+EndGlobal
